@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Nueva versión con sistema de inicio de sesión y gestión de cajeros.",
-  "pub_date": "2026-05-26T18:50:00Z",
+  "version": "0.2.1",
+  "notes": "v0.2.1 — Sistema de autenticación con roles, gestión de usuarios y mejoras de seguridad.",
+  "pub_date": "2026-05-26T19:18:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQnlhRDdtdjJkbGtSNDZwZjA3R1VyYUdYSkk1ajhPN3QxQzA4V1BHbXk4am1FZ2dLWjVJL3c0NEhzbG1SazlFYzg1K2JoSFM5WGpySXVraGFpajlBcGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODIxNDcwCWZpbGU6S2l2YVN5c3RlbV8wLjIuMF94NjQtc2V0dXAuZXhlCndZeXk3MVBmZXBRNkw1TVIzRE52cFRKUnpHeG9QUHVUR0VNTUUyWi90cy90TkQxZXJwNzg0QXdSakxiS2hMbXArdndEaXUyenRSSUhpcmlYWmYyUEJnPT0K",
-      "url": "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.0/KivaSystem_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRQXRZdXRyRGZTQjA2QlI2LzhQVTMvTll4R01oblRia2ZqcnhyVks5OUMyNnRGVjcxbkZCU01CWWRrY3FMbDNOY1dBUTRWMVFnTUViWnFBYlBZVktlZ29IbU5RaTdmOVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODIzMDgxCWZpbGU6S2l2YVN5c3RlbV8wLjIuMV94NjQtc2V0dXAuZXhlCmhFNnZWM0ZtR1ZyYlVXYmhzWGp6STMvS3MvWmNLTHlYdnN2VnFXVlFjWS9aY3R5MmgydEVTWURZUjZvOUwzd2prb1NRUEZ2Q3VHWlhPQTBCc2txOEJnPT0K",
+      "url": "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.1/KivaSystem_0.2.1_x64-setup.exe"
     }
   }
 }
