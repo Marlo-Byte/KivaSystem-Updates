@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Versión inicial del sistema de escritorio.",
-  "pub_date": "2026-05-26T18:00:00Z",
+  "version": "0.2.0",
+  "notes": "Nueva versión con sistema de inicio de sesión y gestión de cajeros.",
+  "pub_date": "2026-05-26T18:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PLACEHOLDER",
-      "url": "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.1.0/KivaSystem_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQnlhRDdtdjJkbGtSNDZwZjA3R1VyYUdYSkk1ajhPN3QxQzA4V1BHbXk4am1FZ2dLWjVJL3c0NEhzbG1SazlFYzg1K2JoSFM5WGpySXVraGFpajlBcGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODIxNDcwCWZpbGU6S2l2YVN5c3RlbV8wLjIuMF94NjQtc2V0dXAuZXhlCndZeXk3MVBmZXBRNkw1TVIzRE52cFRKUnpHeG9QUHVUR0VNTUUyWi90cy90TkQxZXJwNzg0QXdSakxiS2hMbXArdndEaXUyenRSSUhpcmlYWmYyUEJnPT0K",
+      "url": "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.0/KivaSystem_0.2.0_x64-setup.exe"
     }
   }
 }
