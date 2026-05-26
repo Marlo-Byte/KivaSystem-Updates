@@ -1,6 +1,6 @@
 {
   "version": "0.2.2",
-  "notes": "v0.2.1 — Se elimino la tarjeta de ayuda de credenciales predeterminada del componente de la página de inicio de sesión",
+  "notes": "v0.2.2 — Se elimino la tarjeta de ayuda de credenciales predeterminada del componente de la página de inicio de sesión",
   "pub_date": "2026-05-26T19:18:00Z",
   "platforms": {
     "windows-x86_64": {
