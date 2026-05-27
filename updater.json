@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjlyZ1dvdExwbGlzditjTmZ2WDFhMFZudEVXczdZd0xPWUZacWNlU2s0c3B5SXJEdG5UYTJKZFNaM2FrSy81aTNkZUZ5Q0RaRE5BRm9QeTk4eFFyZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE5NTI4CWZpbGU6S2l2YVN5c3RlbV8wLjIuNF94NjQtc2V0dXAuZXhlCmFMT1R4TWh1TXlqSmwvVzhOVDVsdEh6RXViRHBGaXYwRnl4Uy9WYUdnQWIyVFUyZENJM0VHTGhvY2p5UTh0NHJnR1JXeVZPTUVlL2JSeWR6bU5NK0JnPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.4/KivaSystem_0.2.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjE4L0pWbGd4VEdHRm1tZEZPN2lBdG05Zk9LcXd6OG9oWURnaEpreVBOamlnVE0rMExOWVFFbkIyMC9NVVlzQmFMM2l3TlNzbU5FeThockRzZ0JkUWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTIwMTg3CWZpbGU6S2l2YVN5c3RlbV8wLjIuNV94NjQtc2V0dXAuZXhlCm03R2t2WW5EZjBZZktudjdqZlpoR3NIeGV0NTU5a3dZaFRuZXhKdCt2UE15NXhvTnBzWnlnNDhNaGhUclNSWFc1c0pETXYrdFpnblJnUXgvUm5DMkJ3PT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.5/KivaSystem_0.2.5_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-27T22:05:28Z",
-    "version":  "0.2.4",
-    "notes":  "Implementacion de modulo Kardex e Historial de Movimientos de Stock (Fase 4)"
+    "pub_date":  "2026-05-27T22:16:27Z",
+    "version":  "0.2.5",
+    "notes":  "Mejoras en Devoluciones: control de saldo remanente y anulacion automatica al 100% (Fase 5)"
 }
