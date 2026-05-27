@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjE4L0pWbGd4VEdHRm1tZEZPN2lBdG05Zk9LcXd6OG9oWURnaEpreVBOamlnVE0rMExOWVFFbkIyMC9NVVlzQmFMM2l3TlNzbU5FeThockRzZ0JkUWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTIwMTg3CWZpbGU6S2l2YVN5c3RlbV8wLjIuNV94NjQtc2V0dXAuZXhlCm03R2t2WW5EZjBZZktudjdqZlpoR3NIeGV0NTU5a3dZaFRuZXhKdCt2UE15NXhvTnBzWnlnNDhNaGhUclNSWFc1c0pETXYrdFpnblJnUXgvUm5DMkJ3PT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.5/KivaSystem_0.2.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjNGTm9VSllub3dkWjY4U3BaTDJvbWZIQ051RVFoWithcDFyL2JOT3Ayc211WCtaZ1FyNFQyRENlRUdXZE96bjhkQmVBbVNWRlRXc1F0L3BjZVFrTndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTIyNDA5CWZpbGU6S2l2YVN5c3RlbV8wLjIuNl94NjQtc2V0dXAuZXhlCjc1UG15OWFHaFZFNEtnbm81ZStLbVRrU1ZGbEVSVzNJQkpnYWFLdWFYYXkvT1hhZDk3cmdOMzVnM1NISWxpa2hsczVBb09lRjRCdzJvMS82MlNRcUFBPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.6/KivaSystem_0.2.6_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-27T22:16:27Z",
-    "version":  "0.2.5",
-    "notes":  "Mejoras en Devoluciones: control de saldo remanente y anulacion automatica al 100% (Fase 5)"
+    "pub_date":  "2026-05-27T22:53:29Z",
+    "version":  "0.2.6",
+    "notes":  "Personalizaciones de seguridad: cambio de clave propio, autobloqueo de 5 min y autorizacion supervisor"
 }
