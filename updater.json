@@ -1,7 +1,7 @@
 {
   "version": "0.2.2",
-  "notes": "v0.2.2 — Se elimino la tarjeta de ayuda de credenciales predeterminada del componente de la página de inicio de sesión",
-  "pub_date": "2026-05-26T19:18:00Z",
+  "notes": "v0.2.2 — Mejoras de seguridad en pantalla de login.",
+  "pub_date": "2026-05-27T17:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjN0Q3lMUmxiTUhNV21qYjVJMWN6elM0cDJQd1hRc2kyMVFDV0o2T0hQM0E2SlpxeHE3amJ5ZkNISVV1RG03ZXpvV1dWRDl6WFM1Z2JhYlhZTmtIbVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODI1NDgyCWZpbGU6S2l2YVN5c3RlbV8wLjIuMl94NjQtc2V0dXAuZXhlCmhsempkV1h4MWpZMXJ0RGl3YkNXdHAvVzRnMVlIaXBBcFI3WXJMN0lKZ25hTjRCZ09iaXJOYjhYYkYvT3ZmMEtNRVR5SkxpNlpvZDlrSVk0dFFia0RRPT0K",
