@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjVicUd4ZU1HVXVpWk5nbjFpdmRyTzk1OEhIdjhSYlVwRHhZNlg1eU1RaEZsYUJ2SEtSNmEvdU5Rd0hVWHJjSkdLQXMxUmx1MXJjMFF4aTNiQWJlQ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE4NzgyCWZpbGU6S2l2YVN5c3RlbV8wLjIuM194NjQtc2V0dXAuZXhlCm00WTVOZ2tiTDY4YXcrK1NSb2RsVzZCbVFMTVF6eUY0cVVsR0JvR2UyTFNUajN2MDdOUzk3MU1TV0dMdktXVFF1Y3NVWXFCM0xIY0I3OUVQd0NRVUJ3PT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.3/KivaSystem_0.2.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjlyZ1dvdExwbGlzditjTmZ2WDFhMFZudEVXczdZd0xPWUZacWNlU2s0c3B5SXJEdG5UYTJKZFNaM2FrSy81aTNkZUZ5Q0RaRE5BRm9QeTk4eFFyZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE5NTI4CWZpbGU6S2l2YVN5c3RlbV8wLjIuNF94NjQtc2V0dXAuZXhlCmFMT1R4TWh1TXlqSmwvVzhOVDVsdEh6RXViRHBGaXYwRnl4Uy9WYUdnQWIyVFUyZENJM0VHTGhvY2p5UTh0NHJnR1JXeVZPTUVlL2JSeWR6bU5NK0JnPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.4/KivaSystem_0.2.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-27T21:53:02Z",
-    "version":  "0.2.3",
-    "notes":  "Actualizacion de Fase 3: cierres de caja, historial de ventas, devoluciones y exportacion"
+    "pub_date":  "2026-05-27T22:05:28Z",
+    "version":  "0.2.4",
+    "notes":  "Implementacion de modulo Kardex e Historial de Movimientos de Stock (Fase 4)"
 }
