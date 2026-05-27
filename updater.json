@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "v0.2.2 — Mejoras de seguridad en pantalla de login.",
-  "pub_date": "2026-05-27T17:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjN0Q3lMUmxiTUhNV21qYjVJMWN6elM0cDJQd1hRc2kyMVFDV0o2T0hQM0E2SlpxeHE3amJ5ZkNISVV1RG03ZXpvV1dWRDl6WFM1Z2JhYlhZTmtIbVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODI1NDgyCWZpbGU6S2l2YVN5c3RlbV8wLjIuMl94NjQtc2V0dXAuZXhlCmhsempkV1h4MWpZMXJ0RGl3YkNXdHAvVzRnMVlIaXBBcFI3WXJMN0lKZ25hTjRCZ09iaXJOYjhYYkYvT3ZmMEtNRVR5SkxpNlpvZDlrSVk0dFFia0RRPT0K",
-      "url": "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.2/KivaSystem_0.2.2_x64-setup.exe"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjVicUd4ZU1HVXVpWk5nbjFpdmRyTzk1OEhIdjhSYlVwRHhZNlg1eU1RaEZsYUJ2SEtSNmEvdU5Rd0hVWHJjSkdLQXMxUmx1MXJjMFF4aTNiQWJlQ1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTE4NzgyCWZpbGU6S2l2YVN5c3RlbV8wLjIuM194NjQtc2V0dXAuZXhlCm00WTVOZ2tiTDY4YXcrK1NSb2RsVzZCbVFMTVF6eUY0cVVsR0JvR2UyTFNUajN2MDdOUzk3MU1TV0dMdktXVFF1Y3NVWXFCM0xIY0I3OUVQd0NRVUJ3PT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.3/KivaSystem_0.2.3_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-05-27T21:53:02Z",
+    "version":  "0.2.3",
+    "notes":  "Actualizacion de Fase 3: cierres de caja, historial de ventas, devoluciones y exportacion"
 }
