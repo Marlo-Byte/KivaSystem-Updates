@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQndWcGpVUTNWZHh6WGVvNDVSb0EzN2pGekJ6ZXpkbTM0dlRQZkk4R1kzSlg3Um02TjkyNjNjbEVNNVFpcENCL0c4ZTN4SlJnZTFwVmxtUGtZeDJKMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQ0NTY5CWZpbGU6S2l2YVN5c3RlbV8wLjMuM194NjQtc2V0dXAuZXhlCmFkZmcydVJKcVNsN2pKaXp3S293Sy8xbnRTcVU4RzhPVm14a0prS2ViaE1ISC9nYkpPd05tRHVRcm0vbUNTRmZoTHpVdFN5SWpLNGhOd3htSXBVT0FBPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.3/KivaSystem_0.3.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjNiaHJBRFFSdU1YcnNnRXcyVCtzUksyQjJ2TU10QW5qbm43RE9uOW1KVkFzdHR4UjM5M3g5WWxCSDdVa2toSDU4TUREVURKUmRIUHA1YjF3V1Y1WmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQ2MjU1CWZpbGU6S2l2YVN5c3RlbV8wLjMuNF94NjQtc2V0dXAuZXhlClhPSmU5VEVNL0JTNXRmRHhXSC9UaVBjcDBTRER0Q3hnc05TckgxYjJFMldiUHV6UHlnZS9vL2tBajNzS2lPK2xUaFB4VWljeDNxSVJmRkliMk8vQURBPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.4/KivaSystem_0.3.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-28T05:02:49Z",
-    "version":  "0.3.3",
-    "notes":  "Fase 8: Modulos de valor agregado + Perfil a pantalla completa a nivel root para cubrir la barra lateral"
+    "pub_date":  "2026-05-28T05:30:55Z",
+    "version":  "0.3.4",
+    "notes":  "Fase 8: Identidad de cajeros (DNI, telefono, email)"
 }
