@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjhNSDhudVl5VXJkWTNHT2piYmN6WXdLZ1FNcFdxY01adzFzSUI1T2QwQjVMcFJXMytkQXVBR25KQ3BQSVUzY1BQT2Zpb0szdHJ5SjZrclp1dERjVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQzMzE1CWZpbGU6S2l2YVN5c3RlbV8wLjMuMl94NjQtc2V0dXAuZXhlCjJSUDZBeFlGc0dtTFd2clpSN3UzWTA4OVloeDlyQTl2MGVlSU9ILy8xdUVLQkhQT1BWYkU1bjUxekhueVU1VlNhSjlWUDJtb1FnMEE5ZFlxWXhRbUNnPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.2/KivaSystem_0.3.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQndWcGpVUTNWZHh6WGVvNDVSb0EzN2pGekJ6ZXpkbTM0dlRQZkk4R1kzSlg3Um02TjkyNjNjbEVNNVFpcENCL0c4ZTN4SlJnZTFwVmxtUGtZeDJKMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQ0NTY5CWZpbGU6S2l2YVN5c3RlbV8wLjMuM194NjQtc2V0dXAuZXhlCmFkZmcydVJKcVNsN2pKaXp3S293Sy8xbnRTcVU4RzhPVm14a0prS2ViaE1ISC9nYkpPd05tRHVRcm0vbUNTRmZoTHpVdFN5SWpLNGhOd3htSXBVT0FBPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.3/KivaSystem_0.3.3_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-28T04:41:55Z",
-    "version":  "0.3.2",
-    "notes":  "Fase 8: Modulos de valor agregado + Nuevo panel de usuario y cambio de contraseña pantalla completa"
+    "pub_date":  "2026-05-28T05:02:49Z",
+    "version":  "0.3.3",
+    "notes":  "Fase 8: Modulos de valor agregado + Perfil a pantalla completa a nivel root para cubrir la barra lateral"
 }
