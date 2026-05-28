@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjVPYlBiM2c5Y2VLQ01KVGt3eTYwbG9KWFZiaVd2a3hPSnFHZkFaV2dOeExrK1pVS2JGdlF5RmRCNmlXSGUyOXhYTzNkMSs3VDYzYTh4UG9mZHhFb2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQxMjMyCWZpbGU6S2l2YVN5c3RlbV8wLjIuOV94NjQtc2V0dXAuZXhlCk5TQU9Ea1ZzTVpZRjFsdm5vSmQ5NXl3OVV2Z1FRanVaZzdHRkZtNXVRQ3FkL2JTMFpnT1hsSzVDOWRoSmdINVRScjdwZlE5NEQvQ1NNR2JibUxNdEJBPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.9/KivaSystem_0.2.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQngrRU44aDcybHBwRDgzYnZEUU9kaWkybG1rOHRhaUljWXA4NTA5Y2U4K3ZpNlFsNmNNV2hGMCtTaFZGS3ZJaG1UQ3JrVVFYZGJhK2k3Y0s1WHFxMHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQxODQwCWZpbGU6S2l2YVN5c3RlbV8wLjMuMF94NjQtc2V0dXAuZXhlCnRnamVtS05VaExGaTF2VmZTVGR0RXpxWlB0dU5tSW5VN1RVTUZ5R2JEUVhVMHRCZTB4dkFuTjVKZmxCQW5HNjFYYnYvNEx6dGRFRG5LV0UydVp5ZERnPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.0/KivaSystem_0.3.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-28T04:07:12Z",
-    "version":  "0.2.9",
-    "notes":  "Fase 8: Modulos de valor agregado + Sidebar mejorado con agrupamiento y orden"
+    "pub_date":  "2026-05-28T04:17:20Z",
+    "version":  "0.3.0",
+    "notes":  "Fase 8: Modulos de valor agregado + Sidebar mejorado + Correccion visual de modales y contraseña"
 }
