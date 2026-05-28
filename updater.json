@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjZpWThxSmZUWmhhb0xpMThYZkgzekwwMk0wYVBpSWRHdFF1MzVlWmFFVUhRbEJ1enZZUUJYNlZhbHJQSmNIcmZJczBuSG1peUp5MDJ3RTVaYjJMVUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTM3MTg2CWZpbGU6S2l2YVN5c3RlbV8wLjIuN194NjQtc2V0dXAuZXhlCmE2NHlLQ0kyemVFb3kzZ2EyY2R0b1ZMamFtbFFaaVdjZkZCbkdMbDhudlZpWVU4V0hLd3VNSnErWDhPSFplRHUxZjFXMEpqTGtSZHhKQnIycGp4d0RRPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.7/KivaSystem_0.2.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjJDbkxZWGZlL2R5S1ZmZFMvQkROMjBxOThNaGFQNGE2SVdJajl4NE9iQ0RMbGE2ZDhGV01Mb0VQazlzMmpkOUpOVWdpVHllRW9BVmpwRlBZQjlwUXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTM5NzExCWZpbGU6S2l2YVN5c3RlbV8wLjIuOF94NjQtc2V0dXAuZXhlCllRVkROQ2ZOSk0xc2R1N2ZaTXZTQWd5cGFhTXRlUiswMGdkNlBPc2g4UkUySUdjaHFtMUlncytad1pzWWV5anIzdGZFL3NYTHJ2V28wNkp6SHdiK0JBPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.8/KivaSystem_0.2.8_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-28T02:59:46Z",
-    "version":  "0.2.7",
-    "notes":  "Corrección de atajo F3 y diálogo de descuentos"
+    "pub_date":  "2026-05-28T03:41:52Z",
+    "version":  "0.2.8",
+    "notes":  "Fase 8: Modulos de valor agregado (Graficos, Clientes, Promociones, Backups y Codigo de barras)"
 }
