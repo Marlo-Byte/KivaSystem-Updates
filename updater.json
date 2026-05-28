@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjVFMmtYeitKNi9Vb3NGbldvN252dm1aYTZ2dklxL296eGozV09qaWJFN2FvSkFLZDRiTlN2aFRUc1ZhUEhITlU4OWh3YVMyK2FudGZkMFVBOWFuM1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQ2NzI1CWZpbGU6S2l2YVN5c3RlbV8wLjMuNF94NjQtc2V0dXAuZXhlCjhqS1YxNFZsZm80STNKS3YxZkp0NGd6Y0NTWDZCNG1YMWE3aHNNRTB0eUp1cEI2Rk1WbjhlUVk1Wm1XTlYyemV6OS94Qm40RzlMWWlEL2RpSzdjNUJRPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQnp5NzQ2VFZBcWFFRWFrTm50ZHhpcHczeGpCWUw4aWlaN0ZpMFRNRlJkSWFiMW1IcVo1TXQ0eDcySnA1SUtuOGFzLzhEOGZKRWxTTWVPRmQ1ODNFR0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgxMDEyCWZpbGU6S2l2YVN5c3RlbV8wLjMuNF94NjQtc2V0dXAuZXhlCjZjbTRrendMOXQxbFU3WXV0THRZU2l0ZEszQ0ZTNXFYb2R0ZUtqaGRBTGtWdnZiZUR3bW9RNFZUSnVUbGMvUjQ1Z3NqbFBHOEFUM1huaTgrblVWOENBPT0K",
                                              "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.4/KivaSystem_0.3.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-28T05:38:45Z",
+    "pub_date":  "2026-05-28T15:10:12Z",
     "version":  "0.3.4",
     "notes":  "Fase 8: Identidad de cajeros (DNI, telefono, email)"
 }
