@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjNGTm9VSllub3dkWjY4U3BaTDJvbWZIQ051RVFoWithcDFyL2JOT3Ayc211WCtaZ1FyNFQyRENlRUdXZE96bjhkQmVBbVNWRlRXc1F0L3BjZVFrTndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTIyNDA5CWZpbGU6S2l2YVN5c3RlbV8wLjIuNl94NjQtc2V0dXAuZXhlCjc1UG15OWFHaFZFNEtnbm81ZStLbVRrU1ZGbEVSVzNJQkpnYWFLdWFYYXkvT1hhZDk3cmdOMzVnM1NISWxpa2hsczVBb09lRjRCdzJvMS82MlNRcUFBPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.6/KivaSystem_0.2.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjZpWThxSmZUWmhhb0xpMThYZkgzekwwMk0wYVBpSWRHdFF1MzVlWmFFVUhRbEJ1enZZUUJYNlZhbHJQSmNIcmZJczBuSG1peUp5MDJ3RTVaYjJMVUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTM3MTg2CWZpbGU6S2l2YVN5c3RlbV8wLjIuN194NjQtc2V0dXAuZXhlCmE2NHlLQ0kyemVFb3kzZ2EyY2R0b1ZMamFtbFFaaVdjZkZCbkdMbDhudlZpWVU4V0hLd3VNSnErWDhPSFplRHUxZjFXMEpqTGtSZHhKQnIycGp4d0RRPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.2.7/KivaSystem_0.2.7_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-27T22:53:29Z",
-    "version":  "0.2.6",
-    "notes":  "Personalizaciones de seguridad: cambio de clave propio, autobloqueo de 5 min y autorizacion supervisor"
+    "pub_date":  "2026-05-28T02:59:46Z",
+    "version":  "0.2.7",
+    "notes":  "Corrección de atajo F3 y diálogo de descuentos"
 }
