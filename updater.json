@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQnhETnArSjRGa2IrSHJrZGNxMkg4anFyYmZRczhzN3dyWFd0MDNudEwrbVJxQjZUQUp1V2I5Qi9ROVNJVHM0dFZ6bU0yRTJ6aktRajgvRXlUL3ZjaHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTgxMzQwCWZpbGU6S2l2YVN5c3RlbV8wLjMuNV94NjQtc2V0dXAuZXhlCjVMSmljbTBjeklvVnNZTzdONlFqbGxjbngvbjlKeldBL3lIRTgyTk9jU1FNN09jNkhCRXRJblBobWE0WmpDT0NQK0lkZnJpWlA4aERYMzdib1QxbkJRPT0K",
-                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.3.5/KivaSystem_0.3.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjhuTXNWUjN4eGZUa0UyL25hR1JQYlQ5TjFrdi9aTmNPR0ZoV2g5N0FYUFhVWVI3cEo5Z1U4ZWVXempLRHBNYXg5eE1JQzZUMkdvTEtaWDBuRTcrcXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU3NTczCWZpbGU6S2l2YVN5c3RlbV8wLjQuMF94NjQtc2V0dXAuZXhlCldsWVByL3VxR3d5eVd0UU9YVGdhejZtQXpnYXZ6TEE5Q04xc1RTQ1dOS3VFc01ZUGRKZHhaMEQyWG1ycGUwNTR4bXl4c2lBcEw0bGR4OFYvY3plUUJRPT0K",
+                                             "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.4.0/KivaSystem_0.4.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-28T15:15:40Z",
-    "version":  "0.3.5",
-    "notes":  "Fase 8: Cierre automático de sesión por inactividad"
+    "pub_date":  "2026-06-03T03:32:53Z",
+    "version":  "0.4.0",
+    "notes":  "Fase 8: Identidad de cajeros y sistema de licencias por HWID"
 }
