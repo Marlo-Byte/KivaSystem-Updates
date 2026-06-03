@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQjhuTXNWUjN4eGZUa0UyL25hR1JQYlQ5TjFrdi9aTmNPR0ZoV2g5N0FYUFhVWVI3cEo5Z1U4ZWVXempLRHBNYXg5eE1JQzZUMkdvTEtaWDBuRTcrcXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU3NTczCWZpbGU6S2l2YVN5c3RlbV8wLjQuMF94NjQtc2V0dXAuZXhlCldsWVByL3VxR3d5eVd0UU9YVGdhejZtQXpnYXZ6TEE5Q04xc1RTQ1dOS3VFc01ZUGRKZHhaMEQyWG1ycGUwNTR4bXl4c2lBcEw0bGR4OFYvY3plUUJRPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQXRZdXRyRGZTQitHRGpxQXpUTG8xbWdja0xpa0hvckN0VDRMUmREWGNEV3RpMEJwMlpndGxWa25wYkxUYUZxNHlGZ05hM1o4MXc3Vm5FbW9jaEYvdjFCYWZhUmVpOUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDU4MTgxCWZpbGU6S2l2YVN5c3RlbV8wLjQuMF94NjQtc2V0dXAuZXhlCnVmRUoxYWxIeU9wMFlnb3k2Q0pzS2w0UWJlV2djQTgxaEtFOGxsOFJXaHhYTmJ5V0hHbnNRMlZVd0toTFZ2MFZNL3JDWWpsNXVuZmlDK0NRVDB4QUFBPT0K",
                                              "url":  "https://github.com/Marlo-Byte/KivaSystem-Updates/releases/download/v0.4.0/KivaSystem_0.4.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-06-03T03:32:53Z",
+    "pub_date":  "2026-06-03T03:43:01Z",
     "version":  "0.4.0",
     "notes":  "Fase 8: Identidad de cajeros y sistema de licencias por HWID"
 }
